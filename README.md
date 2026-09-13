@@ -80,11 +80,7 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=rahafiihf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=rahafiihf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=120&section=header&text=Building%20Future-Ready%20AI%20%26%20Security%20Systems&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
 ---
 
