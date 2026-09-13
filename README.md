@@ -20,7 +20,7 @@ Computer Programming Graduate @ PNU
 </a>
 </div>
 
-⸻
+
 
 01 — PROFILE
 
@@ -36,7 +36,7 @@ My interests include threat detection, security monitoring, web security, AI-pow
 
 I enjoy taking an idea from concept → architecture → prototype → working system.
 
-⸻
+
 
 02 — CORE DOMAINS
 
@@ -44,7 +44,7 @@ I enjoy taking an idea from concept → architecture → prototype → working s
 <tr>
 <td width="33%" valign="top">
 
-🛡️ CYBERSECURITY
+  CYBERSECURITY
 
 * Threat Detection
 * Security Monitoring
@@ -56,7 +56,7 @@ I enjoy taking an idea from concept → architecture → prototype → working s
 </td>
 <td width="33%" valign="top">
 
-🧠 ARTIFICIAL INTELLIGENCE
+  ARTIFICIAL INTELLIGENCE
 
 * Machine Learning
 * Computer Vision
@@ -68,7 +68,7 @@ I enjoy taking an idea from concept → architecture → prototype → working s
 </td>
 <td width="33%" valign="top">
 
-💻 SOFTWARE
+  SOFTWARE
 
 * Python
 * JavaScript
@@ -81,13 +81,13 @@ I enjoy taking an idea from concept → architecture → prototype → working s
 </tr>
 </table>
 
-⸻
+
 
 03 — SELECTED PROJECTS
 
 <div align="center">
 
-🛡️ DARA’
+  DARA’
 
 CYBER DEFENSE PLATFORM
 
@@ -103,11 +103,11 @@ Threat Detection Monitoring Incident Response Cyber Defense
 
 Program: Tuwaiq Academy Defense-Thon
 
-⸻
+
 
 <div align="center">
 
-💙 SANAD AI
+  SANAD AI
 
 INTELLIGENT FINANCIAL PLATFORM
 
@@ -121,13 +121,13 @@ Focus
 
 AI Financial Analysis Recommendations Automation
 
-🏆 2nd Place — Alinma Madarik Bootcamp
+  2nd Place — Alinma Madarik Bootcamp
 
 ⸻
 
 <div align="center">
 
-🔐 CYBERMIND AI
+  CYBERMIND AI
 
 AI-POWERED SECURITY ASSISTANT
 
@@ -143,11 +143,11 @@ Phishing Detection Fraud Detection Fake Websites Impersonation
 
 Program: AI-Native Engineering Camp
 
-⸻
+
 
 <div align="center">
 
-🧠 MEDISCAN AI
+  MEDISCAN AI
 
 COMPUTER VISION PLATFORM
 
@@ -163,7 +163,7 @@ Computer Vision Image Analysis Machine Learning
 
 Program: Tuwaiq Hackathon
 
-⸻
+
 
 04 — TECHNOLOGY STACK
 
@@ -186,7 +186,7 @@ AI · SECURITY
 <img src="https://skillicons.dev/icons?i=opencv,linux,docker"/>
 </div>
 
-⸻
+
 
 05 — ENGINEERING FOCUS
 
@@ -216,7 +216,7 @@ AI Security Applications
 Incident Response
 Secure Software Development
 
-⸻
+
 
 06 — ACHIEVEMENTS
 
@@ -230,7 +230,7 @@ Achievement	Result
 Misk Agentic AI Program	Selected among top participants
 Alinma Madarik Bootcamp	🥈 2nd Place
 
-⸻
+
 
 07 — EXPERIENCE HIGHLIGHTS
 
@@ -246,7 +246,7 @@ Software Development
 
 Built practical web applications using React, JavaScript, APIs, databases, and modern development workflows.
 
-⸻
+
 
 08 — GITHUB ACTIVITY
 
@@ -255,7 +255,7 @@ Built practical web applications using React, JavaScript, APIs, databases, and m
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafiihf&layout=compact&hide_border=true&bg_color=020B18&title_color=00C6FF&text_color=D9F3FF" height="170"/>
 </div>
 
-⸻
+
 
 09 — DEVELOPMENT PHILOSOPHY
 
@@ -285,7 +285,7 @@ Security should be part of the architecture — not an afterthought.
 
 I aim to combine cybersecurity, AI, and software engineering to build systems that are practical, secure, and useful.
 
-⸻
+
 
 10 — CURRENTLY LEARNING
 
@@ -311,7 +311,7 @@ I aim to combine cybersecurity, AI, and software engineering to build systems th
 │                                                  │
 └──────────────────────────────────────────────────┘
 
-⸻
+
 
 11 — CONNECT
 
