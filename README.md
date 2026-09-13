@@ -1,329 +1,238 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,45:003B73,75:0066FF,100:00C6FF&height=230&section=header&text=RAHAF%20ALSHAIBANI&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%2F%2F%20AI%20%2F%2F%20SOFTWARE&descAlignY=62&descSize=18&descColor=9DDCFF" width="100%"/>
+
+RAHAF ALSHAIBANI
+
+Cybersecurity Student · AI · Software Development
+
+Cybersecurity student at Imam Mohammad Ibn Saud Islamic University (IMSIU)
+Computer Programming graduate from Princess Nourah University (PNU)
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+STUDENT+%7C+IMSIU;COMPUTER+PROGRAMMING+GRADUATE+%7C+PNU;BUILDING+SECURE+%26+INTELLIGENT+SYSTEMS;THREAT+DETECTION+%7C+AI+%7C+SOFTWARE+ENGINEERING;SECURITY+MEETS+INTELLIGENCE" alt="Typing SVG"/>
-<img src="https://komarev.com/ghpvc/?username=rahafiihf&label=SYSTEM%20VISITS&color=0066FF&style=for-the-badge"/>
-</div>
-
-⸻
-
-RAHAF // CYBER SYSTEM
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   IDENTITY                                                   │
-│   ────────                                                   │
-│   RAHAF ALSHAIBANI                                           │
-│                                                              │
-│   DOMAIN                                                     │
-│   ──────                                                     │
-│   CYBERSECURITY / ARTIFICIAL INTELLIGENCE / SOFTWARE         │
-│                                                              │
-│   STATUS                                                     │
-│   ──────                                                     │
-│   ONLINE                                                      │
-│                                                              │
-│   CURRENT FOCUS                                              │
-│   ─────────────                                              │
-│   THREAT DETECTION / SECURE SYSTEMS / AI APPLICATIONS        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-01 — IDENTITY
-
-I am a Cybersecurity student at Imam Mohammad Ibn Saud Islamic University (IMSIU) and a Computer Programming graduate from Princess Nourah University (PNU).
-
-My technical work sits at the intersection of:
-
-CYBERSECURITY
-      +
-ARTIFICIAL INTELLIGENCE
-      +
-SOFTWARE DEVELOPMENT
-
-I build practical systems focused on security, intelligent automation, data-driven analysis, and modern application development.
-
-⸻
-
-02 — TECHNICAL DOMAINS
-
-<div align="center">
-<img src="https://img.shields.io/badge/CYBERSECURITY-020B18?style=for-the-badge&logo=hackthebox&logoColor=00C6FF"/>
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-003B73?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0066FF?style=for-the-badge&logo=codeforces&logoColor=FFFFFF"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:003B73,100:00C6FF&height=180&section=header&text=RAHAF%20ALSHAIBANI&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=65&descSize=16&descColor=9DDCFF" width="100%"/>
 <br>
-<table>
-<tr>
-<td width="33%" valign="top">
-
-CYBERSECURITY
-
-Threat Detection
-Security Monitoring
-Network Security
-Cyber Defense
-Incident Response
-Security Concepts
-</td>
-<td width="33%" valign="top">
-
-ARTIFICIAL INTELLIGENCE
-
-Machine Learning
-Computer Vision
-AI Applications
-AI APIs
-Intelligent Assistants
-Automation
-</td>
-<td width="33%" valign="top">
-
-SOFTWARE
-
-Python
-JavaScript
-React
-Web Applications
-Databases
-API Integration
-</td>
-</tr>
-</table>
-
-⸻
-
-03 — SELECTED DEPLOYMENTS
-
-<div align="center">
-
-DARA'
-
-UNIFIED CYBER DEFENSE SYSTEM
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=CYBERSECURITY+STUDENT;SOFTWARE+DEVELOPER;AI+%26+SECURITY+PROJECTS;BUILDING+PRACTICAL+SYSTEMS" alt="Typing SVG"/>
 </div>
-TYPE        CYBER DEFENSE PLATFORM
-FOCUS       REAL-TIME MONITORING
-            THREAT DETECTION
-            INCIDENT RESPONSE
-            SECURITY VISIBILITY
-PROGRAM     TUWAIQ ACADEMY DEFENSE-THON
-STATUS      DEPLOYED
-
-A cyber defense concept designed around centralized monitoring, threat visibility, and automated incident-response workflows for critical environments.
 
 ⸻
 
-<div align="center">
+About Me
 
-SANAD AI
+I’m a Cybersecurity student with a background in Computer Programming, interested in building secure, intelligent, and practical software systems.
 
-INTELLIGENT FINANCIAL PLATFORM
+My work combines:
 
-</div>
-TYPE        AI / FINTECH
-FOCUS       FINANCIAL ANALYSIS
-            AI ASSISTANCE
-            PERSONALIZED SAVING
-            SMART RECOMMENDATIONS
-ACHIEVEMENT 2ND PLACE — ALINMA MADARIK
-STATUS      DEPLOYED
+Cybersecurity + Artificial Intelligence + Software Development
 
-An AI-powered banking concept designed to analyze financial behavior and provide personalized saving recommendations through intelligent assistance.
+I’m particularly interested in:
 
-⸻
+* Threat detection and security monitoring
+* Cyber defense and incident response
+* Web and application security
+* AI-powered security solutions
+* Intelligent automation
+* Full-stack application development
 
-<div align="center">
-
-CYBERMIND AI
-
-AI-POWERED SECURITY ASSISTANT
-
-</div>
-TYPE        AI / CYBERSECURITY
-FOCUS       PHISHING DETECTION
-            FRAUD DETECTION
-            FAKE WEBSITE ANALYSIS
-            IMPERSONATION DETECTION
-PROGRAM     AI-NATIVE ENGINEERING CAMP
-STATUS      DEPLOYED
-
-An intelligent security assistant designed to help identify phishing links, fraudulent websites, and impersonation attempts through an accessible interface.
+I enjoy turning ideas into working prototypes and exploring how security and AI can work together to solve real-world problems.
 
 ⸻
 
-<div align="center">
+Technical Skills
 
-MEDISCAN AI
+Cybersecurity
 
-COMPUTER VISION PLATFORM
+Threat Detection · Security Monitoring · Network Security
+Cyber Defense · Incident Response · Web Security
 
-</div>
-TYPE        ARTIFICIAL INTELLIGENCE
-FOCUS       COMPUTER VISION
-            IMAGE ANALYSIS
-            MEDICAL IMAGING
-            AI-ASSISTED SCREENING
-PROGRAM     TUWAIQ HACKATHON
-STATUS      PROTOTYPED
+Artificial Intelligence
 
-A computer-vision concept designed to analyze uploaded radiology images and highlight potentially suspicious regions for preliminary assessment.
+Machine Learning · Computer Vision · AI APIs
+Intelligent Assistants · Automation
+
+Programming & Development
+
+Python · JavaScript · Java · C# · HTML · CSS
+React · Next.js · Node.js · Tailwind CSS
+
+Databases & Tools
+
+MySQL · Supabase · REST APIs · Git · GitHub · VS Code
+
+AI / Security Tools
+
+OpenCV · Linux · Docker
 
 ⸻
 
-04 — TECHNOLOGY MATRIX
+Featured Projects
+
+🛡️ DARA’ — Cyber Defense Platform
+
+Cybersecurity · Threat Detection · Security Monitoring
+
+A cyber defense platform concept focused on centralized security visibility and monitoring.
+
+Key focus:
+
+* Threat detection
+* Security monitoring
+* Incident response workflows
+* Centralized visibility
+* Cyber defense
+
+Program: Tuwaiq Academy Defense-Thon
+
+⸻
+
+💙 SANAD AI — Intelligent Financial Platform
+
+Artificial Intelligence · FinTech · Data Analysis
+
+An AI-powered financial platform designed to help users understand their financial behavior and make smarter saving decisions.
+
+Key focus:
+
+* Financial analysis
+* Personalized recommendations
+* AI assistance
+* Smart saving
+* User-focused financial insights
+
+🏆 2nd Place — Alinma Madarik Bootcamp
+
+⸻
+
+🔐 CyberMind AI — Security Assistant
+
+AI · Cybersecurity · Fraud Detection
+
+An AI-powered security assistant designed to help users identify potentially malicious or fraudulent digital content.
+
+Key focus:
+
+* Phishing detection
+* Fraud detection
+* Fake website analysis
+* Impersonation detection
+* Security awareness
+
+Program: AI-Native Engineering Camp
+
+⸻
+
+🧠 MediScan AI — Computer Vision
+
+Artificial Intelligence · Computer Vision · Image Analysis
+
+A computer-vision prototype designed to analyze medical images and identify potentially suspicious regions for preliminary AI-assisted screening.
+
+Key focus:
+
+* Computer vision
+* Image analysis
+* AI-assisted screening
+* Visual pattern detection
+
+Program: Tuwaiq Hackathon
+
+⸻
+
+Experience & Programs
+
+Misk Agentic AI Program
+
+Selected among the top participants in Misk’s Agentic AI Program, focusing on AI-native applications and agentic systems.
+
+Alinma Madarik Bootcamp
+
+🥈 2nd Place Winner
+
+Developed an AI-powered financial technology concept focused on intelligent saving and personalized recommendations.
+
+Tuwaiq Academy
+
+Participated in technical programs and hackathons covering AI, cybersecurity, software development, and emerging technologies.
+
+⸻
+
+Achievements
 
 <div align="center">
-
-PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,js,java,cs,html,css"/>
-
-DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mysql,supabase,git,github,vscode"/>
-
-AI / SECURITY
-
-<img src="https://skillicons.dev/icons?i=python,opencv,linux,docker"/>
+<img src="https://img.shields.io/badge/MISK-AGENTIC%20AI-003B73?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/2ND%20PLACE-ALINMA%20MADARIK-0066FF?style=for-the-badge&logoColor=white"/>
 </div>
 <br>
-LANGUAGES
-──────────────────────────────────────────────
-Python        JavaScript        Java
-C#            HTML              CSS
-FRAMEWORKS & DEVELOPMENT
-──────────────────────────────────────────────
-React         Next.js           Node.js
-Tailwind CSS  REST APIs         Web Applications
-DATABASES & TOOLS
-──────────────────────────────────────────────
-MySQL         Supabase          Git
-GitHub        VS Code
-AI & SECURITY
-──────────────────────────────────────────────
-Machine Learning
-Computer Vision
-AI APIs
-Threat Detection
-Network Security
-Security Monitoring
-Cyber Defense
+
+* 🏆 Selected among the top participants — Misk Agentic AI Program
+* 🥈 2nd Place — Alinma Madarik Bootcamp
 
 ⸻
 
-05 — ENGINEERING PROFILE
-
-                    RAHAF
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-          ▼           ▼           ▼
-     CYBERSECURITY   AI       SOFTWARE
-          │           │           │
-          │           │           │
-     ┌────┼────┐   ┌──┼──┐   ┌────┼────┐
-     ▼    ▼    ▼   ▼  ▼  ▼   ▼    ▼    ▼
-   THREAT  NET  IR  ML  CV  AI  WEB  API  DATA
-   DETECT  SEC      MODELS    APPS DEV  SYSTEMS
-          │           │           │
-          └───────────┼───────────┘
-                      ▼
-              SECURE INTELLIGENCE
-                      │
-                      ▼
-              PRACTICAL SYSTEMS
-
-⸻
-
-06 — ENGINEERING MINDSET
-
-BUILD
-  ↓
-ANALYZE
-  ↓
-SECURE
-  ↓
-AUTOMATE
-  ↓
-IMPROVE
-
-My approach combines software engineering with cybersecurity and AI to move from idea → prototype → intelligent system.
-
-I am particularly interested in building systems where security is part of the architecture, not an afterthought.
-
-⸻
-
-07 — ACHIEVEMENTS
+Tech Stack
 
 <div align="center">
-<img src="https://img.shields.io/badge/TOP%202.3%25-MISK%20AGENTIC%20AI-0066FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2ND%20PLACE-ALINMA%20MADARIK-00C6FF?style=for-the-badge"/>
-</div>
-<br>
-[01] MISK AGENTIC AI PROGRAM
-     TOP 2.3%
-[02] ALINMA MADARIK BOOTCAMP
-     2ND PLACE WINNER
-
-⸻
-
-08 — GITHUB TELEMETRY
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahafiihf&show_icons=true&hide_border=true&bg_color=020B18&title_color=00C6FF&icon_color=0066FF&text_color=D9F3FF&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafiihf&layout=compact&hide_border=true&bg_color=020B18&title_color=00C6FF&text_color=D9F3FF" height="180"/>
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=rahafiihf&theme=transparent&hide_border=true&background=020B18&ring=00C6FF&fire=0066FF&currStreakLabel=00C6FF&sideLabels=9DDCFF&dates=7FA8C9" width="720"/>
+<img src="https://skillicons.dev/icons?i=python,js,java,cs,html,css,react,nextjs,nodejs,tailwind,mysql,supabase,git,github,vscode,linux,docker,opencv" />
 </div>
 
 ⸻
 
-09 — ACTIVITY STREAM
+GitHub
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahafiihf&bg_color=020B18&color=9DDCFF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahafiihf&show_icons=true&hide_border=true&bg_color=020B18&title_color=00C6FF&icon_color=0066FF&text_color=D9F3FF&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafiihf&layout=compact&hide_border=true&bg_color=020B18&title_color=00C6FF&text_color=D9F3FF" height="165"/>
 </div>
 
 ⸻
 
-10 — SYSTEM PRINCIPLES
+Currently Exploring
 
-<div align="center">
-SECURITY FIRST
-        +
-INTELLIGENCE BY DESIGN
-        +
-ENGINEERING WITH PURPOSE
-</div>
-<br>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=BUILDING+SECURE+SYSTEMS.;ENGINEERING+INTELLIGENT+SOLUTIONS.;TURNING+IDEAS+INTO+WORKING+SYSTEMS." alt="System Principles"/>
-</div>
+Cybersecurity
+    ├── Threat Detection
+    ├── Security Monitoring
+    ├── Incident Response
+    └── Web Security
+Artificial Intelligence
+    ├── Machine Learning
+    ├── Computer Vision
+    ├── AI Applications
+    └── Intelligent Automation
+Software Development
+    ├── React
+    ├── APIs
+    ├── Databases
+    └── Full-Stack Applications
 
 ⸻
 
-11 — CONNECT
+My Approach
+
+BUILD → ANALYZE → SECURE → AUTOMATE → IMPROVE
+
+I believe good software should not only work — it should be secure, useful, and designed with purpose.
+
+My goal is to continue developing at the intersection of cybersecurity, artificial intelligence, and software engineering, while building systems that solve practical problems.
+
+⸻
+
+Let’s Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rahaf-alshaibani-bb3001329">
-<img src="https://img.shields.io/badge/LINKEDIN-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rahaf.ryi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/rahafiihf">
-<img src="https://img.shields.io/badge/GITHUB-003B73?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-003B73?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
+<br>
 <div align="center">
-──────────────────────────────────────────────────────
+
 RAHAF ALSHAIBANI
-CYBERSECURITY  /  AI  /  SOFTWARE
-SYSTEM STATUS: ONLINE
-BUILD STATUS: ACTIVE
-──────────────────────────────────────────────────────
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:0066FF,100:020B18&height=130&section=footer" width="100%"/>
+
+Cybersecurity · AI · Software Development
+
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0066FF,100:020B18&height=100&section=footer" width="100%"/>
