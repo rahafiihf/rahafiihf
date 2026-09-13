@@ -248,11 +248,66 @@ Built practical web applications using React, JavaScript, APIs, databases, and m
 
 
 
-08 — GITHUB ACTIVITY
+08 — GITHUB PROFILE
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahafiihf&show_icons=true&hide_border=true&bg_color=020B18&title_color=00C6FF&icon_color=00C6FF&text_color=D9F3FF&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafiihf&layout=compact&hide_border=true&bg_color=020B18&title_color=00C6FF&text_color=D9F3FF" height="170"/>
+
+CODE · BUILD · LEARN · IMPROVE
+
+</div>
+
+My GitHub is a collection of projects, experiments, and technical work across Cybersecurity, Artificial Intelligence, and Software Development.
+
+Repository Focus
+
+CYBERSECURITY
+├── Security Projects
+├── Threat Detection
+├── Web Security
+└── Cyber Defense
+ARTIFICIAL INTELLIGENCE
+├── AI Applications
+├── Machine Learning
+├── Computer Vision
+└── Intelligent Automation
+SOFTWARE DEVELOPMENT
+├── Web Applications
+├── APIs
+├── Databases
+└── Full-Stack Projects
+
+Development Approach
+
+Stage	Focus
+01	Explore — Research the problem
+02	Design — Plan the solution
+03	Build — Develop the system
+04	Secure — Apply security principles
+05	Test — Validate the solution
+06	Improve — Iterate and refine
+
+GitHub
+
+Username: rahafiihf
+
+Primary Areas:
+Cybersecurity · AI · Software Development
+
+Languages:
+Python · JavaScript · Java · C# · HTML · CSS
+
+Development:
+React · Next.js · Node.js · REST APIs
+
+Tools:
+Git · GitHub · VS Code · Linux · Docker
+
+<div align="center">
+
+Explore my repositories →
+
+github.com/rahafiihf
+
 </div>
 
 
