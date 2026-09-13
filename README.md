@@ -136,39 +136,28 @@ Analyzes radiology scans on upload to surface preliminary diagnoses and flag sus
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D4FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D4FF)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00D4FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D4FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D4FF)
+<img src="https://skillicons.dev/icons?i=py,js,java,cs,html,css&theme=dark" />
 
 **Frameworks & Runtime**
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D4FF)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D4FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00D4FF)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00D4FF)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
 
 **Data & Infrastructure**
 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D4FF)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00D4FF)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00D4FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D4FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,git,github&theme=dark" />
 
 **AI / ML**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=00D4FF)
-![Gemini](https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00D4FF)
-![CV](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=00D4FF)
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+&nbsp;
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=00D4FF&labelColor=0D1117)](.)
+[![Gemini](https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00D4FF&labelColor=0D1117)](.)
 
 **Cybersecurity Domains**
 
-![Network Security](https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=cisco&logoColor=00D4FF)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logo=icloud&logoColor=00D4FF)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-0D1117?style=for-the-badge&logo=hackaday&logoColor=00D4FF)
+[![Network Security](https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=cisco&logoColor=00D4FF&labelColor=0D1117)](.)
+[![Cloud Security](https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logo=icloud&logoColor=00D4FF&labelColor=0D1117)](.)
+[![Threat Detection](https://img.shields.io/badge/Threat_Detection-0D1117?style=for-the-badge&logo=hackaday&logoColor=00D4FF&labelColor=0D1117)](.)
 
 </div>
 
