@@ -217,7 +217,6 @@ $ cat certifications.log
 <br/>
 
 > *"من الدفاع السيبراني إلى الذكاء الاصطناعي — أبني الأنظمة التي تحمي وتُقرر وتتعلم."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
