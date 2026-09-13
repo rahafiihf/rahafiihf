@@ -123,7 +123,7 @@ AI Financial Analysis Recommendations Automation
 
   2nd Place — Alinma Madarik Bootcamp
 
-⸻
+
 
 <div align="center">
 
